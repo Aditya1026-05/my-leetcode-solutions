@@ -8,10 +8,10 @@ public:
 
         queue<pair<int, int>> q;
         vector<vector<int>> vis(n,vector<int>(m,0));
-        for(int i = 0; i< n;i++){
-            vector<int> t(m,0);
-            vis[i] = t;
-        }
+        // for(int i = 0; i< n;i++){
+        //     vector<int> t(m,0);
+        //     vis[i] = t;
+        // }
         q.push({0,0});
         vis[0][0] = 1;
         while(!q.empty()){
