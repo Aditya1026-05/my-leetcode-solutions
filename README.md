@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
