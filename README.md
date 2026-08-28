@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
