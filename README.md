@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -169,4 +172,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
