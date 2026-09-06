@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0704-binary-search) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0704-binary-search) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
