@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
