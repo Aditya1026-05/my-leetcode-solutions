@@ -102,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
