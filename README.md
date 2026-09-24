@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
