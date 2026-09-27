@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0076-minimum-window-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Aditya1026-05/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
